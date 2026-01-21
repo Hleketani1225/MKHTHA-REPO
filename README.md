@@ -4,3 +4,8 @@
 
 ### Business Problem:
 
+### Methodology:
+
+### Skills:
+
+### Results & Business Recomendation:
