@@ -8,10 +8,12 @@ Dataset:
 
 Amazon Consumer Behaviour Dataset (Kaggle)
 
-https://www.kaggle.com/datasets/swathiunnikrishnan/amazon-consumer-behaviour-dataset.
+https://www.kaggle.com/datasets/swathiunnikrishnan/amazon-consumer-behaviour-dataset
+
 
 ### Business Problem:
 
+Amazon’s rapid e-commerce growth produced extensive and complex customer datasets, making it challenging to predict purchasing behavior. This project evaluated multiple machine learning models to uncover the most effective methods for forecasting customer decisions.
 ####
 
 ### Methodology:
