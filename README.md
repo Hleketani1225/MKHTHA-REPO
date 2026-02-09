@@ -17,8 +17,9 @@ Amazon’s rapid e-commerce growth produces extensive and complex customer datas
 ####
 
 ### Methodology:
-#### 1. View the data in students
-### Skills:
+
+* Data Preparation (Python): Imported the Analyzing Amazon Consumer Behaviour dataset from Kaggle (CSV format) and performed data cleaning, preprocessing, and transformation using Python libraries such as Pandas, Matplotlib and NumPy.
+* Business Intelligence Dashboard (Tableau): Built an interactive Tableau dashboard to track order status trends, visualize key metrics, and deliver actionable insights to support business decisions.
 
 ### Results & Business Recomendation:
 
