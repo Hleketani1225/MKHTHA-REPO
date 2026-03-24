@@ -1,4 +1,4 @@
-# Analyzing Amazon consumer Behaviour Dataset
+# Analyzing Amazon Consumer Behaviour Dataset
 
 ### Executive Summary:
 
@@ -18,11 +18,14 @@ Amazon’s rapid e-commerce growth produces extensive and complex customer datas
 
 ### Methodology:
 
-* Data Preparation (Python): Imported the Analyzing Amazon Consumer Behaviour dataset from Kaggle (CSV format) and performed data cleaning, preprocessing, and transformation using Python libraries such as Pandas, Matplotlib and NumPy.
+* Data Preparation (Python): Imported the Amazon Consumer Behaviour dataset from Kaggle (CSV format) and performed data cleaning, preprocessing, and transformation using Python libraries such as Pandas, Matplotlib, and NumPy.
 * Business Intelligence Dashboard (Tableau): Built an interactive Tableau dashboard to track order status trends, visualize key metrics, and deliver actionable insights to support business decisions.
 
-### Results & Business Recomendation:
+### Results & Discussion:
 
-Creating a dashboard to track product orders gives product and sales stakeholders visibility into the product funnel both overall and for specific clients. Because of democratizing this data, stakeholders are now able to self serve, and the analytics team now has less hours of ad hoc requests per week.
+The models were evaluated on a dataset of 602 entries with 23 features using an 80/20 train-test split. Random Forest performed best, achieving 76% accuracy with strong precision and F1-score. After hyperparameter tuning, k-Nearest Neighbors (k-NN) improved from 65% to 73%, Random Forest and XGBoost showed slight declines, and Gaussian Naive Bayes remained unchanged.
 
-### Next Steps
+These results highlight the importance of algorithm selection and tuning for predictive accuracy. Analysis also showed that customer purchasing behaviour is shaped by multiple factors, including age, gender, price sensitivity, convenience, satisfaction, purchase frequency, product type, and product quality.
+
+### Conclusion
+
