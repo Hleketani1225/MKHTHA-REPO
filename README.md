@@ -29,3 +29,4 @@ These results highlight the importance of algorithm selection and tuning for pre
 
 ### Conclusion
 
+Random Forest outperformed Gaussian Naive Bayes, k-NN, and XGBoost in analysing Amazon customer purchasing behaviour, maintaining strong accuracy even after tuning. k-NN improved notably with parameter optimization, showing the value of fine-tuning simpler models. The study also found that purchasing behaviour is influenced by demographic, behavioural, and contextual factors that is, age, gender, price sensitivity, convenience, satisfaction, purchase frequency, product type, and product quality. Overall, ensemble models like Random Forest are effective for uncovering complex consumer patterns, offering insights for recommendation systems and targeted marketing
